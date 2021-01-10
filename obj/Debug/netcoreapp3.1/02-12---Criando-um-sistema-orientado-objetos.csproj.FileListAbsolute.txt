@@ -1,0 +1,13 @@
+C:\Users\joao\Desktop\SENAI\02-12---Criando-um-sistema-orientado-objetos\bin\Debug\netcoreapp3.1\02-12---Criando-um-sistema-orientado-objetos.exe
+C:\Users\joao\Desktop\SENAI\02-12---Criando-um-sistema-orientado-objetos\bin\Debug\netcoreapp3.1\02-12---Criando-um-sistema-orientado-objetos.deps.json
+C:\Users\joao\Desktop\SENAI\02-12---Criando-um-sistema-orientado-objetos\bin\Debug\netcoreapp3.1\02-12---Criando-um-sistema-orientado-objetos.runtimeconfig.json
+C:\Users\joao\Desktop\SENAI\02-12---Criando-um-sistema-orientado-objetos\bin\Debug\netcoreapp3.1\02-12---Criando-um-sistema-orientado-objetos.runtimeconfig.dev.json
+C:\Users\joao\Desktop\SENAI\02-12---Criando-um-sistema-orientado-objetos\bin\Debug\netcoreapp3.1\02-12---Criando-um-sistema-orientado-objetos.dll
+C:\Users\joao\Desktop\SENAI\02-12---Criando-um-sistema-orientado-objetos\bin\Debug\netcoreapp3.1\02-12---Criando-um-sistema-orientado-objetos.pdb
+C:\Users\joao\Desktop\SENAI\02-12---Criando-um-sistema-orientado-objetos\obj\Debug\netcoreapp3.1\02-12---Criando-um-sistema-orientado-objetos.csprojAssemblyReference.cache
+C:\Users\joao\Desktop\SENAI\02-12---Criando-um-sistema-orientado-objetos\obj\Debug\netcoreapp3.1\02-12---Criando-um-sistema-orientado-objetos.AssemblyInfoInputs.cache
+C:\Users\joao\Desktop\SENAI\02-12---Criando-um-sistema-orientado-objetos\obj\Debug\netcoreapp3.1\02-12---Criando-um-sistema-orientado-objetos.AssemblyInfo.cs
+C:\Users\joao\Desktop\SENAI\02-12---Criando-um-sistema-orientado-objetos\obj\Debug\netcoreapp3.1\02-12---Criando-um-sistema-orientado-objetos.csproj.CoreCompileInputs.cache
+C:\Users\joao\Desktop\SENAI\02-12---Criando-um-sistema-orientado-objetos\obj\Debug\netcoreapp3.1\02-12---Criando-um-sistema-orientado-objetos.dll
+C:\Users\joao\Desktop\SENAI\02-12---Criando-um-sistema-orientado-objetos\obj\Debug\netcoreapp3.1\02-12---Criando-um-sistema-orientado-objetos.pdb
+C:\Users\joao\Desktop\SENAI\02-12---Criando-um-sistema-orientado-objetos\obj\Debug\netcoreapp3.1\02-12---Criando-um-sistema-orientado-objetos.genruntimeconfig.cache
